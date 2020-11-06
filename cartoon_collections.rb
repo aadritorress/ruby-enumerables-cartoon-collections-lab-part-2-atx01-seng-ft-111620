@@ -41,7 +41,7 @@ def find_valid_calls(planeteer_calls)
 
 planeteer_calls.find { |valid_calls| valid_calls == planeteer_calls}
 
-puts planeteer_calls[0]
+puts planeteer_calls.find
 
 end
 
