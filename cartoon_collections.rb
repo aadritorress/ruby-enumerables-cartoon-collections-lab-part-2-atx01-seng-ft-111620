@@ -43,6 +43,5 @@ planeteer_calls.find { |valid_calls| valid_calls == planeteer_calls}
 
    return planeteer_calls
    
-end 
 end
 
