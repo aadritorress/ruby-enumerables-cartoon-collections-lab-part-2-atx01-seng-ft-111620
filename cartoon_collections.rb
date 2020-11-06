@@ -43,7 +43,7 @@ def find_valid_calls(planeteer_calls)
   
   planeteer_calls.find do |call| 
    call = planeteer_calls
-  newarray = 
+  newarray = planeteer_calls
     
   end
    
