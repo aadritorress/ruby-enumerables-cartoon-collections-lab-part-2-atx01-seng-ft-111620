@@ -41,6 +41,7 @@ def find_valid_calls(planeteer_calls)
 
   # define a valid calls array...
   
+  
   planeteer_calls.find do |call| 
    call = planeteer_calls
   newarray = planeteer_calls
