@@ -43,12 +43,9 @@ def find_valid_calls(planeteer_calls)
   
   planeteer_calls.find do |call| 
    call = planeteer_calls
+  newarray = 
     
-    # we will check "call" against each element in the  valid_calls array 
-    # to see if the "call" is in fact valid
   end
-
-
    
 end
 
