@@ -42,14 +42,16 @@ def find_valid_calls(planeteer_calls)
   # define a valid calls array...
   
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
-  
+  valid_calls.include?(call) 
   
   planeteer_calls.find do |call| 
     binding.pry
-   call = planeteer_calls
-  newarray = planeteer_calls
+
     
   end
    
 end
 
+# a = [ "a", "b", "c" ]
+# a.include?("b")   
+# a.include?("z")
